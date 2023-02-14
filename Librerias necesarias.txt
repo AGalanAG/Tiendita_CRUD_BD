@@ -1,0 +1,1 @@
+Las librerías necesarias para poder hacer la conexión de java a SQL se encuentran en la carpeta componentes
