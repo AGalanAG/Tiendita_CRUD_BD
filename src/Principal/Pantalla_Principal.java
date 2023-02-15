@@ -9,10 +9,7 @@ import Productos.Pantalla_actualizar_productos;
 import Productos.Pantalla_eliminar_productos;
 import Productos.Pantalla_consultar_productos;
 
-/**
- *
- * @author ANDRES
- */
+
 public class Pantalla_Principal extends javax.swing.JFrame 
 {
     
